@@ -14,6 +14,10 @@ Built a model to predict employee (nurse) attrition in the US Healthcare System 
 
 <br>
 
+Note: The dataset is synthetic and based on the IBM Watson dataset for attrition. Employee roles and departments were modified to reflect the healthcare domain. Also, known outcomes for some employees were altered to help increase the performance of the ML models.
+
+<br>
+
 **Open the Notebook in Jupyter Lab or Google Colab to execute all the steps and re-train the models for your intended purpose.**
 
 <br>
