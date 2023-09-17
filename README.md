@@ -1,6 +1,6 @@
 # Attrition of Nurses in US Healthcare
 
-Classification of diabetes is significant in clinical care for diagnosis, to guide treatment choices, and when making treatment decisions for a person whose glycaemic control is unsatisfactory. In this project, I have built a model to predictonset of diabetes using classification techniques that take into account multiple factors.
+Built a model to predict employee (nurse) attrition in the US Healthcare System using classification techniques that take into account multiple factors that influence staff attrition.
 
 
 ## Steps performed in the Notebook:
@@ -14,7 +14,7 @@ Classification of diabetes is significant in clinical care for diagnosis, to gui
 
 <br>
 
-Note: The dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. This is available on <a href="https://www.kaggle.com/datasets/mathchi/diabetes-data-set">Kaggle</a>.
+Note: The dataset is synthetic and based on the IBM Watson dataset for attrition. Employee roles and departments were modified to reflect the healthcare domain. Also, known outcomes for some employees were altered to help increase the performance of the ML models.
 
 <br>
 
